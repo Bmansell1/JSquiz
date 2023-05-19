@@ -1,12 +1,19 @@
+body {
+    background-color: #352344;
+}
 h2 {
     margin-bottom: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
 }
 .center {
-    color:blue;
+    color:orange;
     text-align:center;
 }
 .result {
     visibility: hidden;
     text-align: center;
     margin-top: -100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orange
 }
